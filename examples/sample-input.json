@@ -1,0 +1,18 @@
+{
+  "free_flow": 55,
+  "z_threshold": 1.5,
+  "traffic": [
+    { "district": "north", "hour": 0, "value": 42 },
+    { "district": "north", "hour": 1, "value": 40 },
+    { "district": "north", "hour": 2, "value": 18 },
+    { "district": "north", "hour": 3, "value": 41 },
+    { "district": "south", "hour": 0, "value": 50 },
+    { "district": "south", "hour": 1, "value": 48 }
+  ],
+  "air": [
+    { "district": "north", "hour": 0, "value": 12 },
+    { "district": "north", "hour": 1, "value": 13 },
+    { "district": "north", "hour": 2, "value": 35 },
+    { "district": "north", "hour": 3, "value": 14 }
+  ]
+}
